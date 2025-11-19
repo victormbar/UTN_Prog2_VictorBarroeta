@@ -7,15 +7,15 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Trabajo Práctico #4 -  POO ");
+        System.out.println("TP #4 -  POO");
         
-        Empleado e1 = new Empleado(1, "Federico Garcia", "Developer", 2000.0);
-        Empleado e2 = new Empleado("Carolina Herrera", "UX-UI");
-        Empleado e3 = new Empleado("Ezequiel Bengolea", "TeachLeader");
+        Empleado e1 = new Empleado(1, "Victor Barroeta", "Developer", 2000.0);
+        Empleado e2 = new Empleado("Carla Salinas", "Scrum Master");
+        Empleado e3 = new Empleado("Andres Andrade", "QA");
         Empleado e4 = new Empleado();
         
         System.out.println("Ingresa los datos de un empleado:");
-        e4.setId(12);
+        e4.setId(20);
         e4.setNombre(scanner.nextLine());
         e4.setPuesto(scanner.nextLine());
         e4.setSalario(scanner.nextDouble());

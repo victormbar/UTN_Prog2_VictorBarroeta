@@ -26,7 +26,7 @@ public class Empleado {
         this.nombre = nombre;
         this.puesto = puesto;
         this.id += Math.random()*100;
-        this.salario = 1500;
+        this.salario = 2000;
         totalEmpleados++;
     }
 

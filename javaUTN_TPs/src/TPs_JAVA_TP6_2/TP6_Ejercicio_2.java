@@ -1,21 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package TPs_JAVA_TP6_2;
 
 import TPs_JAVA_TP6_2.Autor;
 import java.util.List;
 
-/**
- *
- * @author enfer
- */
+
 public class TP6_Ejercicio_2 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // Creamos una biblioteca
         Biblioteca biblioteca=new Biblioteca("Biblioteca Municipal");

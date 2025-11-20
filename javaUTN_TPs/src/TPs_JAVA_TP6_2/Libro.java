@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package TPs_JAVA_TP6_2;
 
 import TPs_JAVA_TP6_2.Autor;
 
-/**
- *
- * @author enfer
- */
+
 public class Libro {
     private String isbn;
     private String titulo;

@@ -1,6 +1,5 @@
 package TPs_JAVA_TP6_2;
 
-import TPs_JAVA_TP6_2.Autor;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

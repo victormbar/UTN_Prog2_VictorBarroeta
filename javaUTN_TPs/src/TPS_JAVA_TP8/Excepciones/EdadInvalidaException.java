@@ -1,0 +1,21 @@
+
+package TPS_JAVA_TP8.Excepciones;
+
+public class EdadInvalidaException extends RuntimeException{
+
+    public EdadInvalidaException() {
+    }
+
+    public EdadInvalidaException(String message) {
+        super(message);
+    }
+
+    public EdadInvalidaException(String message, Throwable cause) {
+        super(message, cause);
+    }
+
+    public EdadInvalidaException(Throwable cause) {
+        super(cause);
+    }
+    
+}
